@@ -1,3 +1,18 @@
+---
+layout: post
+title:  "Jiong Party Member"
+description: 
+date:  2019-10-09
+categories: party
+img: elder.jpg
+categories: []
+color: BF360C
+author: Rugal Bernstein
+---
+
++1s
+
+
 * 贫穷啃老爱丽丝
 * 失业无助青墨语
 * 社不如资冰杰翎
