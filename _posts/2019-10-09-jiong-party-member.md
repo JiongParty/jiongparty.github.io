@@ -8,6 +8,7 @@ img: elder.jpg
 categories: []
 color: BF360C
 author: Rugal Bernstein
+permalink: /members/
 ---
 
 +1s
