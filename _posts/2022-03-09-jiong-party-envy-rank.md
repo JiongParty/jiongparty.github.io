@@ -80,3 +80,5 @@ permalink: /jiong-envy-rank/
    5. 有自行车
 5. 羊锅
    1. 有房
+6. 猫叔
+   1. 有房
