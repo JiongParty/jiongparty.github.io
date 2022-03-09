@@ -8,7 +8,7 @@ img: elder.jpg
 categories: []
 color: BF360C
 author: Rugal Bernstein
-permalink: /members/
+permalink: /jiong-envy-rank/
 ---
 
 +1s
